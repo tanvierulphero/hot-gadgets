@@ -1,3 +1,11 @@
 p{
     color: black;
 }
+body{
+    background-color: blue;
+}
+.carousel-item{
+    padding: 20px 30px;
+    position: center;
+    margin: auto;
+}
