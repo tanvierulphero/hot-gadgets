@@ -12,6 +12,7 @@ body{
     margin: auto;
     background-color: palegoldenrod;
 }
-.see-all p{
-    color: orange
+h6{
+    font-weight: bold;
+    color: chocolate;
     }
