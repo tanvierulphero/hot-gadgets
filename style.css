@@ -4,7 +4,14 @@ p{
 body{
     margin: auto;
 }
+.container{
+    margin-top: 3%;
+}
 .cbg{
     padding: 5% 2%;
     margin: auto;
+    background-color: palegoldenrod;
 }
+.see-all p{
+    color: orange
+    }
