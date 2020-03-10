@@ -2,10 +2,9 @@ p{
     color: black;
 }
 body{
-    background-color: blue;
 }
-.carousel-item{
+.cbg{
+    background-color: burlywood;
     padding: 20px 30px;
-    position: center;
     margin: auto;
 }
