@@ -16,3 +16,18 @@ h6{
     font-weight: bold;
     color: chocolate;
     }
+.card{
+    text-align: center;
+}
+.buy-now-button{
+
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
