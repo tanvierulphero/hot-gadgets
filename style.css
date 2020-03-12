@@ -37,15 +37,16 @@ h6{
     }
 .card{
     text-align: center;
-    border-color: none;
+    background-color: none;
+    border:  none;
     border-radius: 10px;
     box-shadow: 5px 5px 5px 5px lightgray;
-    
-   
+    padding-top: 5%;
+    padding-bottom: 2%;
+  
     
 }
 .buy-now-button{
-
     background-color: black;
     color: white;
     border-radius: 10px;
@@ -59,4 +60,16 @@ h6{
 .cate
 {
     text-align: center;
+}
+.card-item{
+    text-align: center;
+    background-color: none;
+    border:  none;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+    box-shadow: 5px 5px 5px 5px lightgray;
+    padding: 20% 20%;
+  
+    
 }
