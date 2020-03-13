@@ -1,12 +1,15 @@
+.container{
+
+margin-bottom:100px;
+}
+.slide{
+    padding-top: 5%;
+}
+.row{
+    margin-bottom: 20px;
+}
 p{
     color: black;
-}
-body{
-    margin: auto;
-}
-
-.container{
-    margin-top: 5%;
 }
 .carousel-indicators li {
     box-sizing: content-box;
@@ -26,10 +29,7 @@ body{
     opacity: .5;
     transition: opacity .6s ease;
 }
-.cbg{
-    padding: 5% 2%;
-    margin: auto;
-    height: 600px;
+.cbg{   
     background-image: url("images/bg\ copy.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -45,9 +45,7 @@ h6{
     border:  white;
     border-radius: 15px;
     box-shadow: 0px 0px 20px 5px rgba(163,155,163,0.11);
-    padding-top: 5%;
-    padding-bottom: 2%;
-  
+    padding: 2% 2%;
     
 }
 .buy-now-button{
@@ -62,13 +60,13 @@ h6{
     border-top: none;
 }
 .cate
-{
-    font-size: 50px;
-    text-align: center;
-    padding-top: 5%;
-    padding-bottom: 5%;
-   
-}
+{       font-size: 40px;
+        text-align: center;
+        
+ }
+    
+
+
 .card-item{
     text-align: center;
     background-color: none;
