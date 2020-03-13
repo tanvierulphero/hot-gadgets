@@ -59,10 +59,24 @@ h6{
     background-color: white;
     border-top: none;
 }
-.cate
-{       font-size: 40px;
-        text-align: center;
-        
+ 
+.cate{
+    text-align: center;
+    margin-bottom: 5%;
+    
+}
+.under{ 
+    align-items: center;
+    box-sizing: content-box;
+    background: linear-gradient(to right, #ffc520, #ff9c35);
+    border-radius: 10px;
+    height: 10px;
+    width: 1px;
+    padding-left: 30px;
+    padding-right: 110px;
+    margin-left: auto;
+    margin-right: auto;
+   
  }
     
 
